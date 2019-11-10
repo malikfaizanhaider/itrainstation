@@ -137,9 +137,15 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/card
+
 @angular/material/checkbox
 
 @angular/material/core
+
+@angular/material/datepicker
+
+@angular/material/dialog
 
 @angular/material/divider
 
@@ -156,6 +162,8 @@ THE SOFTWARE.
 @angular/material/radio
 
 @angular/material/slide-toggle
+
+@angular/material/table
 
 @angular/material/toolbar
 
