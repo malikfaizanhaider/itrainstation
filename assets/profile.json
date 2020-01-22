@@ -1,0 +1,133 @@
+{
+  "id": 1000366,
+  "companyID": 15,
+  "firstName": "Beaus",
+  "middleName": "Jeremy",
+  "lastName": "Hitt",
+  "phone": "206.852.7662",
+  "smsNum": "206.852.7662",
+  "email": "b.hitt@bascgroup.com",
+  "altEmail": "foolking@gmail.com",
+  "organization": "Basc Group",
+  "position": "Assistant Commissioner",
+  "department": "Affirmative Action",
+  "employeeID": "E23",
+  "policyID": "E23",
+  "avatarImg": "34",
+  "validEmail": true,
+  "validAltEmail": false,
+  "validSMS": false,
+  "addedByID": 1000002,
+  "modifiedByID": 1000366,
+  "deactByID": 0,
+  "deactMethod": "",
+  "active": true,
+  "dateAdded": "2010-11-10T09:07:39.000+0000",
+  "dateModified": "2019-09-13T09:02:02.000+0000",
+  "dateDeact": null,
+  "dateExpire": "2020-07-17T00:00:00.000+0000",
+  "dateLastLogin": "2019-11-05T13:56:41.000+0000",
+  "sendInvites": 0,
+  "graceDays": 0,
+  "trainReminders": 0,
+  "passing": 0,
+  "timeDisplay": 0,
+  "language": null,
+  "dateDisplay": null,
+  "ticketDesign": null,
+  "landingPage": "Home",
+  "shareFavorites": false,
+  "notifications": {
+    "newTrain": "email,sms",
+    "newCourse": "email",
+    "passed": "sms",
+    "failed": "sms"
+  },
+  "userSettings": {
+    "tokenLimit": 1,
+    "phoneExt": 0,
+    "noticeLevel": 2,
+    "alertType": "sms",
+    "noticeType": "abuse",
+    "findManager": null,
+    "viewCode": "dpPqXv"
+  },
+  "userToggles": {
+    "useCompClicks": false,
+    "quizOnly": false,
+    "forcePWReset": false,
+    "unSub": false,
+    "useMgrClicks": false,
+    "approved": false,
+    "showPurchased": false,
+    "showSearch": false,
+    "token30": false,
+    "token60": false,
+    "token90": false,
+    "deactToken": false,
+    "allowRent": false,
+    "noDVD": false,
+    "noRental": false
+  },
+  "devices": [
+    {
+      "id": 1,
+      "name": "My Laptop",
+      "hashcode": "299b0f993fcdbac53171c2c6426e7f61",
+      "lastIP": "72.134.76.1",
+      "location": "Lewisberry, PA",
+      "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36",
+      "lastSeen": "2019-11-13T16:55:51.000+0000",
+      "addDate": "2018-04-09T09:50:24.000+0000",
+      "deleted": false,
+      "isp": "Cox Communciation"
+    },
+    {
+      "id": 2837,
+      "name": "Work Phone",
+      "hashcode": "cd9d0f993fcfbac53171c2c6426e7f61",
+      "lastIP": "116.74.5.12",
+      "location": "Harrisburg, PA",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36",
+      "lastSeen": "2019-11-07T16:55:47.000+0000",
+      "addDate": "2019-09-10T11:34:24.000+0000",
+      "deleted": false,
+      "isp": "Blue Ridge Communcations"
+    },
+    {
+      "id": 2838,
+      "name": "Work Desktop",
+      "hashcode": "nhjy0f59d5cfbac53171c2c6426e7f61",
+      "lastIP": "116.74.5.12",
+      "location": "Harrisburg, PA",
+      "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36",
+      "lastSeen": "2019-11-14T16:55:42.000+0000",
+      "addDate": "2019-09-17T09:17:24.000+0000",
+      "deleted": false,
+      "isp": "Blue Ridge Communcations"
+    },
+    {
+      "id": 2839,
+      "name": "Tablet",
+      "hashcode": "85df0f5j7g543ac53171c2c6426e4dd8",
+      "lastIP": "72.134.76.1",
+      "location": "Lewisberry, PA",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36",
+      "lastSeen": "2019-11-03T16:55:57.000+0000",
+      "addDate": "2019-10-14T09:50:24.000+0000",
+      "deleted": false,
+      "isp": "Cox Communciation"
+    }
+  ],
+  "userGroups": [
+    {
+      "name": "all",
+      "id": 1304
+    },
+    {
+      "name": "B.Hitt Users",
+      "id": 4605
+    }
+  ],
+  "tz": null
+}
