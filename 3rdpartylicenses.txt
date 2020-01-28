@@ -681,6 +681,9 @@ MIT
 @rxweb/reactive-form-validators
 MIT
 
+@swimlane/ngx-datatable
+MIT
+
 angular-in-memory-web-api
 MIT
 The MIT License
