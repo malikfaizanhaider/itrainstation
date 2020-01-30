@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1580381123697,
+  "timestamp": 1580397417337,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,23 +8,23 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/1.48bbf11607bb72226686.js",
         "/10.ba0de2ac41458aae9c1a.js",
         "/11.dba418c806d4574cd1ab.js",
         "/12.220feb2d858a1f4a707f.js",
-        "/13.2ca83c06a1daa06e2198.js",
+        "/13.eafd93bdb8962a085bc4.js",
         "/14.a7580a34044284d61ff2.js",
+        "/2.5ffad5dbe3bb135d2b4b.js",
         "/7.45082df69bbdf123e860.js",
         "/8.f79669cbf22eea6475ae.js",
         "/9.92d9c23c8576ea40fed1.js",
-        "/common.0d3932a47b379413f4fd.js",
+        "/common.ea9b05b8ee23d312857c.js",
         "/favicon.ico",
         "/index.html",
-        "/main.eeeb80da05657da7ed8e.js",
-        "/polyfills-es5.4924a1e6af7e5094c10e.js",
-        "/polyfills.196597db60250f6e8dab.js",
-        "/runtime.2e821071cf249e64f7ca.js",
-        "/styles.dff6d760b463765923aa.css"
+        "/main.b96b5c06bfb62e1df271.js",
+        "/polyfills-es5.e2860fb112e081c389d4.js",
+        "/polyfills.353d3c56936fa3bc8f56.js",
+        "/runtime.277c476e97f4a28a1ca3.js",
+        "/styles.d5a408b6e9238a2e13af.css"
       ],
       "patterns": []
     },
@@ -223,12 +223,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/1.48bbf11607bb72226686.js": "9bcd583b0c5a9403387ec0cb0d9e4e25c16593b8",
     "/10.ba0de2ac41458aae9c1a.js": "c94b345de730cbde304a84094dfb928832d34a98",
     "/11.dba418c806d4574cd1ab.js": "fc14921681937f88068e003bd86b77033d1d29ca",
     "/12.220feb2d858a1f4a707f.js": "345deada0b5041161af1ecdb07219e1deaf54c45",
-    "/13.2ca83c06a1daa06e2198.js": "a6e399f3e507dbf193ad8ccc489673918e18365f",
+    "/13.eafd93bdb8962a085bc4.js": "e129c93d0fe74bda133df7c7b13768c58e7864a3",
     "/14.a7580a34044284d61ff2.js": "8eacf32975feae3fb719851825accdd1d261715b",
+    "/2.5ffad5dbe3bb135d2b4b.js": "f259e9bf40268cab64e4e14b26c50dfb9d334b9f",
     "/7.45082df69bbdf123e860.js": "0d7f659ad9c335faf2740ecce740ac06edf0d47b",
     "/8.f79669cbf22eea6475ae.js": "53692f1cb2408e4b0c037a531a1b1a342bdb2610",
     "/9.92d9c23c8576ea40fed1.js": "d6466765c842e2f87074f9417571681d4bec0fb8",
@@ -416,14 +416,14 @@
     "/assets/projects/swimlane/ngx-datatable/tsconfig.lib.json": "d44458d9b1b8be709832c63eb65f70c1723060f8",
     "/assets/projects/swimlane/ngx-datatable/tsconfig.spec.json": "fbd5adcd4b77b4b986cbd4a84664c3a1f0678543",
     "/assets/projects/swimlane/ngx-datatable/tslint.json": "ca532e24935b928b0c8ab8a4313997f3918a4b84",
-    "/common.0d3932a47b379413f4fd.js": "35625b7548d228520b9a6b379dc321aa65a6031e",
+    "/common.ea9b05b8ee23d312857c.js": "6e9908c34df4a9ed7b0ef4df8cb961b5dcd7ebf3",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "5cc451b5dd2416472fc61a9cecd58e1dde9f9767",
-    "/main.eeeb80da05657da7ed8e.js": "98d6e7a144de709f0a3345a43ea539af85125733",
-    "/polyfills-es5.4924a1e6af7e5094c10e.js": "c26304dd3d083cf2ca9ac74ffbd2b57397ba085b",
-    "/polyfills.196597db60250f6e8dab.js": "f9c8ef4192570ed0963da463f44db832f29f5dab",
-    "/runtime.2e821071cf249e64f7ca.js": "3f2746d318074f99c134e448678caaad360788f2",
-    "/styles.dff6d760b463765923aa.css": "c97bc49f81dd04d9f82368550fac694b7947512e"
+    "/index.html": "822e35ca29507bcf4be4acbb7b88f597e98296da",
+    "/main.b96b5c06bfb62e1df271.js": "a2e65e787550e2d8ad510f9ab4eed1b37225760e",
+    "/polyfills-es5.e2860fb112e081c389d4.js": "9757ad5eb72f85ff0e8a01d41837cf5fa430d2aa",
+    "/polyfills.353d3c56936fa3bc8f56.js": "dbdea83f4405e108642ac95d7f36286ff6282bb9",
+    "/runtime.277c476e97f4a28a1ca3.js": "1824b0d7e44948591eafbb571b5e36f6e9d7f10f",
+    "/styles.d5a408b6e9238a2e13af.css": "022a7378f7158fe01918ba6d8a61c9482244d449"
   },
   "navigationUrls": [
     {
