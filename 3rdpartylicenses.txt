@@ -709,6 +709,9 @@ MIT
 @swimlane/ngx-datatable
 MIT
 
+amazing-time-picker
+MIT
+
 angular-in-memory-web-api
 MIT
 The MIT License
